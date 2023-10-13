@@ -1,7 +1,7 @@
 ### Olá! Eu sou Welker 👋
 
 - 🔭 Hoje trabalho tanto com frontend quanto back end em php e python
-- 🌱 Estou Estudando Django
+- 🌱 Estou Estudando Go Lang
 
 
 
@@ -29,6 +29,7 @@
   <img align="center" alt="Welker-JQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Welker-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Welker-PYHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Welker-PYHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg">
  
 </div>
 
