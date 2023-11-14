@@ -1,6 +1,6 @@
 ### Olá! Eu sou Welker 👋
 
-- 🔭 Hoje trabalho tanto com frontend quanto back end em php e python
+- 🔭 Hoje trabalho tanto com frontend quanto backend 
 - 🌱 Estou Estudando Go Lang
 
 
