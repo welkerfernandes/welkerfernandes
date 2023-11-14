@@ -1,7 +1,7 @@
 ### Olá! Eu sou Welker 👋
 
 - 🔭 Hoje trabalho tanto com frontend quanto backend 
-- 🌱 Estou Estudando Go Lang
+
 
 
 
