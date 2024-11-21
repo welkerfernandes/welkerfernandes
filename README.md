@@ -39,7 +39,7 @@
 
 <div> 
  
- <a href="https://hostdiamond.top/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" target="_blank"></a> 
+ <a href="https://hostdiamond.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" target="_blank"></a> 
   <a href = "mailto:welkerfc@icloud.com"><img src="https://img.shields.io/badge/-iCloud-%23333?style=for-the-badge&logo=iclud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/welkerfernandesoficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
