@@ -40,16 +40,17 @@
 ##
 
 <div style="display: flex; gap: 10px;"> 
-  <a href="https://www.instagram.com/welker.fc/" style="text-decoration: none;" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.instagram.com/welker.fc/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a> 
-  <a href="mailto:welkerfc@icloud.com" style="text-decoration: none;" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="mailto:welkerfc@icloud.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/welkerfernandesoficial/" style="text-decoration: none;" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.linkedin.com/in/welkerfernandesoficial/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>
+
 
 
 
