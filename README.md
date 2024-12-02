@@ -5,27 +5,20 @@
 
 
 
+
 <picture>
-  <!-- Imagem para modo escuro -->
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true&theme=dracula" 
-    media="(prefers-color-scheme: dark)" 
-    alt="Estatísticas do GitHub do Welker Fernandes em modo escuro" 
-  />
-  
-  <!-- Imagem para modo claro e preferências de esquema de cor sem especificação -->
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    alt="Estatísticas do GitHub do Welker Fernandes em modo claro" 
-  />
-  
-  <!-- Imagem padrão para navegadores sem suporte a preferências de cor -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true" 
-    alt="Estatísticas do GitHub do Welker Fernandes" 
-  />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true" />
 </picture>
+
+
 
 
 
