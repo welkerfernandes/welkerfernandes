@@ -3,17 +3,16 @@
 - Sou Engenheiro de Software | Software Engineer | Full stack
 
 
-
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true&theme=dark"
+  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welkerfernandes&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true"
+  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welkerfernandes&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welkerfernandes&theme=dracula" />
 </picture>
 
 
