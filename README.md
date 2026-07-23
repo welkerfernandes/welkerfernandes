@@ -1,37 +1,33 @@
 <h1 align="center">⚡ Welker Fernandes</h1>
 
 <h3 align="center">
-🚀 Software Engineer • Full Stack Developer • AI Enthusiast
+Full Stack Software Engineer • AI • Cloud • APIs
 </h3>
 
 <p align="center">
-Desenvolvendo soluções escaláveis com IA, Cloud, APIs e aplicações Web.
+Desenvolvendo soluções modernas, escaláveis e inteligentes.
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welkerfernandes&theme=github_dark" width="100%">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=welkerfernandes&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=welkerfernandes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welkerfernandes&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ⚙️ Tecnologias
+## 🚀 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,go,flutter,mysql,postgres,laravel,django,flask,docker,git,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,go,flutter,laravel,django,flask,mysql,postgres,docker,git,linux,vscode&perline=9"/>
 
 </p>
 
 ---
 
-## 🌎 Conecte-se
+## 🌐 Contato
 
 <p align="center">
 
@@ -51,13 +47,13 @@ Desenvolvendo soluções escaláveis com IA, Cloud, APIs e aplicações Web.
 
 ---
 
-## 🚀 Atualmente
+## 💻 Atualmente
 
 - 🤖 Inteligência Artificial
 - ☁️ Cloud Computing
-- 📱 Desenvolvimento Mobile
-- 🌐 APIs REST
-- ⚡ Sistemas Escaláveis
+- 🚀 APIs REST
+- 📱 Mobile
+- 💾 Arquitetura de Software
 
 ---
 
